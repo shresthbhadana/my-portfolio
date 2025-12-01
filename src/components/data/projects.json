@@ -1,0 +1,26 @@
+[{
+    
+    "title": "zerodha clone",
+    "imgSrc" : "projects/project 3.png",
+    
+    "techStack": "react.js,bootstap,html,css,vercel ,node.js,express.js,mongodb                        ",
+    "githubLink" : "https://github.com/shresthbhadana/major-project2",
+    "LiveLink" : "https://major-project2-937xh4eft-shresth-bhadans-projects.vercel.app/"
+},
+{
+    "title": "My Portfolio",
+    "imgSrc" : "projects/project 2.png",
+           
+    "techStack": "react.js,bootstap,html,css,vercel ",
+    "githubLink" : "www.cricbuzz.com",
+    "LiveLink" : "www.google.com"
+},
+{
+    
+    "title": "WanderLust",
+    "imgSrc" : "projects/project 1.png",
+    
+    "techStack": "Node.js,Express.js,MongoDB,JavaScript,Html,css",
+    "githubLink" : " https://github.com/shresthbhadana/majorproject-2.0",
+    "LiveLink" : " https://majorproject-2-0-lvxd.onrender.com/listings"
+}]

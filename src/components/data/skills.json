@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imgSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imgSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imgSrc": "skills/javaScript.jpeg"
+  },
+  {
+    "title": "ReactJS",
+    "imgSrc": "skills/react.js.png"
+  },
+  {
+    "title": "NodeJS",
+    "imgSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imgSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Express",
+    "imgSrc": "skills/express.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imgSrc": "skills/boot.png"
+  },
+  {
+    "title": "Git",
+    "imgSrc": "skills/git.jpg"
+  },
+  {
+    "title": "Java",
+    "imgSrc": "skills/Java.png"
+  },
+  {
+    "title": "Material UI",
+    "imgSrc": "skills/material.jpeg"
+  },
+  {
+    "title": "VS Code",
+    "imgSrc": "skills/vscode.png"
+  }
+]
