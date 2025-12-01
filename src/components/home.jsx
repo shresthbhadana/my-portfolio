@@ -1,5 +1,5 @@
 import React ,{useEffect} from 'react'
-import pdf from  "../pdf/shresth2_resume(1).pdf"
+import pdf from  "../pdf/shresth2_resume.pdf"
 import hero from "./data/home.json"
 import Skills from './Skills'
 import Project from './Project'
